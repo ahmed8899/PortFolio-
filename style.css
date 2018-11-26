@@ -5,7 +5,7 @@ body {
 
 
 * {
-	color: #665544;
+	color: white;
 	text-align: center;
 }
 	
@@ -28,18 +28,17 @@ li {
 	display: inline;
 	padding: 0.5em;}
 	#nav, #footer {
-	background-color: #efefef;
 	padding: 0.5em 0;
 }
-	#feature, 
-.article {
-			height: 10em;
-			margin-bottom: 1em;
-			background-color: #efefef;
-}
 
-h1{
-  font-family: 'Bungee Shade', cursive;
-  color: #FFFFFF;
-}
-	
+p{position: absolute;
+    center: 80px;
+    width: 50%;
+    }
+
+h5{ position: absolute;
+    left: 1000px;
+    width: 200px;
+    
+  bottom: 10px;
+    border: 3px solid green;}
