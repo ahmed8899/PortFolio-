@@ -36,6 +36,13 @@ p{position: absolute;
     width: 50%;
     }
 
+p2{position: absolute;
+    center: 80px;
+    width: 50%;
+background-color : black;
+color: white;
+    }
+
 h5{ position: absolute;
     left: 1000px;
     width: 200px;
