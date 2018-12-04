@@ -41,6 +41,7 @@ p2{position: absolute;
     width: 50%;
 background-color : black;
 color: white;
+bottom: 50px;
     }
 
 h5{ position: absolute;
