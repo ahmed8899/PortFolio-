@@ -32,17 +32,11 @@ li {
 }
 
 p{position: absolute;
-    center: 80px;
+    center: 40px;
     width: 50%;
     }
 
-p2{position: absolute;
-    center: 80px;
-    width: 50%;
-background-color : black;
-color: white;
-bottom: 50px;
-    }
+
 
 h5{ position: absolute;
     left: 1000px;
