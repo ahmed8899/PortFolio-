@@ -32,7 +32,7 @@ li {
 }
 
 p{position: absolute;
-    center;
+    text-align:center;
     width: 50%;
     }
 
